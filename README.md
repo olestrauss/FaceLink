@@ -19,7 +19,7 @@ FaceLink is a Python-based facial recognition image matching system that allows 
 
 - Download the setup file and follow instructions.
 - If using setup file, you must run the programm as administrator.
-- [Setup Download](https://github.com/ageitgey/face_recognition](https://drive.google.com/file/d/1qTRBlojVWVP0jNSmy8yBSEZtakMc6B6q/view?usp=sharing)): Google Drive download for setup.exe file.
+- [Setup Download](https://drive.google.com/file/d/1qTRBlojVWVP0jNSmy8yBSEZtakMc6B6q/view?usp=sharing): Google Drive download for setup.exe file.
 
 ### Running Locally
 
