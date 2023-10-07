@@ -9,7 +9,7 @@ FaceLink is a Python-based facial recognition image matching system that allows 
 - Allocate matched images to corresponding folders for easy organization.
 - User-friendly graphical user interface (GUI) built with PySimpleGUI.
 - Cross-platform compatibility.
-- 
+
 ### Prerequisites
 
 - Python 3.x installed on your system.
